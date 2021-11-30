@@ -1,0 +1,28 @@
+{
+  "name": "Telered",
+  "version": "1.0.0",
+  "description": "Proyecto de Automatizacion para el aplicativo de telered",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "prueba": "npx cypress open"
+  },
+  "keywords": [
+    "QA",
+    "Automatizacion"
+  ],
+  "author": "Mabril",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Michaelabril/Automatizacion-Cypress"
+  },
+  "devDependencies": {
+    "cypress": "^7.7.0",
+    "cypress-xpath": "^1.6.2",
+    "xpath": "0.0.32"
+  }
+}

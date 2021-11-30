@@ -1,0 +1,14 @@
+{
+    "projectId": "h2d8ne",
+    "viewportWidth": 1600,
+    "viewportHeight": 1000,
+    "baseUrl":"https://qa.d3lsr2ehpw4u8q.amplifyapp.com",
+    "retries": {
+        "runMode": 2,
+        "openMode": 1
+      },
+      "env": {
+        "ID":"ad17be57-a2ab-49c9-91f1-0f02089fb1c8"
+        
+      }
+}
